@@ -4,6 +4,12 @@
 
 A database project for managing a musical instrument rental business. The system supports instrument inventory, customer management, rental and return workflows, rental price calculation, and the identification of instruments available for sale.
 
+## 🛠️ Toolstack
+
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-Database-CC2927?logo=microsoftsqlserver&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database_Development-4479A1?logo=postgresql&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-IDE-5C2D91?logo=visualstudio&logoColor=white)
+
 ## Project Overview
 
 The application is designed for a business that rents musical instruments to:
